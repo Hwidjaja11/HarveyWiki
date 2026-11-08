@@ -11,6 +11,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.integrate
+    - navigation.footer
 
 markdown_extensions:
   - pymdownx.details
