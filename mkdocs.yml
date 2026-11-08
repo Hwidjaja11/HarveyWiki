@@ -1,0 +1,12 @@
+site_name: HarveyWiki
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: deep purple
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
