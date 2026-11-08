@@ -8,13 +8,13 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.integrate
-    
-   font:
+  font:
     text: Times New Roman
     code: Roboto Mono
-
 
 markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - admonition
+plugins:
+  - search
