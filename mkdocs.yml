@@ -1,8 +1,8 @@
 site_name: HarveyWiki
 theme:
   name: material
-  favicon: logo.png
   logo: logo.png
+  favicon: logo.png
   font: false
   palette:
     primary: white
