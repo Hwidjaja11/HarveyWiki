@@ -1,8 +1,7 @@
 site_name: HarveyWiki
 theme:
   name: material
-  icon:
-    logo: material/book-open-page-variant
+  logo: logo.png
   font: false
   palette:
     primary: white
