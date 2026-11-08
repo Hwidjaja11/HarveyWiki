@@ -2,11 +2,17 @@ site_name: HarveyWiki
 theme:
   name: material
   palette:
-    primary: deep purple
-    accent: deep purple
+    primary: white
+    accent: blue
   features:
-    - navigation.tabs
-    - search.suggest
-    - search.highlight
-plugins:
-  - search
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+  font:
+    text: Sans Serif
+    code: Roboto Mono
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.superfences
+  - admonition
