@@ -3,7 +3,6 @@ theme:
   name: material
   icon:
     logo: material/book-open-page-variant
-    favicon: material/book-open-page-variant
   palette:
     primary: white
     accent: blue
