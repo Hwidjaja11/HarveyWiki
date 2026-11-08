@@ -2,16 +2,11 @@ media:
   input: docs/images
   output: /docs/images
 collections:
-  - name: Wiki Pages
+  - name: wiki_pages
     label: Wiki Pages
-    type: folder
-    path: docs
+    folder: docs
     extension: md
     format: frontmatter
     fields:
-      - name: title
-        label: Page Title
-        type: string
-      - name: body
-        label: Article Content
-        type: rich-text
+      - {name: title, label: Page Title, widget: string}
+      - {name: body, label: Article Content, widget: markdown}
