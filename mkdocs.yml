@@ -19,6 +19,9 @@ markdown_extensions:
 plugins:
   - search
   - awesome-pages
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
 
 extra_css:
   - stylesheets/extra.css
