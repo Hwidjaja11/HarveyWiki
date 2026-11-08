@@ -8,9 +8,11 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.integrate
-  font:
-    text: Sans Serif
+    
+   font:
+    text: Times New Roman
     code: Roboto Mono
+
 
 markdown_extensions:
   - pymdownx.details
