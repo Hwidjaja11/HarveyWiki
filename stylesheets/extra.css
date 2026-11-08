@@ -1,7 +1,8 @@
-* {
-    font-family: "Times New Roman", Times, serif !important;
+body, input, select, textarea, kbd, code, pre, .md-typeset, .md-nav, .md-header, .md-footer, h1, h2, h3, h4, h5, h6, p, li, a, span, strong, em {
+    font-family: 'Times New Roman', Times, Baskerville, Georgia, serif !important;
 }
 
-.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset p, .md-typeset li, .md-nav__link {
-    font-family: "Times New Roman", Times, serif !important;
+:root {
+    --md-text-font: 'Times New Roman', Times, Baskerville, Georgia, serif !important;
+    --md-code-font: 'Times New Roman', Times, Baskerville, Georgia, serif !important;
 }
