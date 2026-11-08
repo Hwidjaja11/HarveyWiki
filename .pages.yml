@@ -4,9 +4,13 @@ media:
 collections:
   - name: wiki_pages
     label: Wiki Pages
-    folder: docs
+    type: folder
+    path: docs
     extension: md
-    format: frontmatter
     fields:
-      - {name: title, label: Page Title, widget: string}
-      - {name: body, label: Article Content, widget: markdown}
+      - name: title
+        label: Page Title
+        type: string
+      - name: body
+        label: Article Content
+        type: rich-text
