@@ -6,10 +6,10 @@ content:
     label: Wiki Pages
     type: collection
     path: docs
+    extension: md
     fields:
-      - name: title
-        label: Page Title
-        type: string
-      - name: body
-        label: Article Content
-        type: rich-text
+      - {name: title, label: Page Title, type: string}
+      - {name: subtitle, label: Page Subtitle / Short Description, type: string, required: false}
+      - {name: date, label: Last Updated Date, type: date, required: false}
+      - {name: categories, label: Article Categories / Tags, type: list, required: false}
+      - {name: body, label: Article Content Canvas, type: rich-text}
