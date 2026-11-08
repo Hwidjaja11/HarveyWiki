@@ -1,5 +1,5 @@
 ---
-title: CodaCode Studio
+title: CodaCode Studios
 ---
 CodaCode Game Development Studios is a Video Game company founded by Harvey Widjaja.
 
@@ -12,6 +12,5 @@ CodaCode Game Development Studios is a Video Game company founded by Harvey Widj
 | Subsidiaries | CodaCode Music, CodaCode Contracting |
 | Protection Status | Common-Law Trademark, General Copyright |
 | Specialties | Video Game Development, Music Composition |
-
 
 
