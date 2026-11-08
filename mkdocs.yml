@@ -20,8 +20,8 @@ plugins:
   - search
   - awesome-pages
   - git-revision-date-localized:
-      enable_creation_date: true
       type: date
+      enable_creation_date: true
 
 extra_css:
   - stylesheets/extra.css
