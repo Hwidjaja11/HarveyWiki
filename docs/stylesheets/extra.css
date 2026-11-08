@@ -6,3 +6,12 @@ body, input, select, textarea, kbd, code, pre, .md-typeset, .md-nav, .md-header,
     --md-text-font: 'Times New Roman', Times, Baskerville, Georgia, serif !important;
     --md-code-font: 'Times New Roman', Times, Baskerville, Georgia, serif !important;
 }
+
+.md-header__button.md-logo img {
+    height: 48px !important;
+    width: auto !important;
+}
+
+.md-header__button.md-logo {
+    padding: 4px !important;
+}
