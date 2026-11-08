@@ -1,16 +1,10 @@
-media:
-  input: docs/images
-  output: /docs/images
 collections:
-  - name: wiki_pages
+  - name: posts
     label: Wiki Pages
     type: folder
     path: docs
-    extension: md
     fields:
       - name: title
-        label: Page Title
         type: string
       - name: body
-        label: Article Content
-        type: rich-text
+        type: string
