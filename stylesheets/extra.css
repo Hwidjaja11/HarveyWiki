@@ -1,3 +1,7 @@
-:root {
-  --md-text-font: "Times New Roman", Times, serif !important;
+* {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4, .md-typeset p, .md-typeset li, .md-nav__link {
+    font-family: "Times New Roman", Times, serif !important;
 }
