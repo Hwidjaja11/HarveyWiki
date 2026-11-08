@@ -1,6 +1,9 @@
 site_name: HarveyWiki
 theme:
   name: material
+  icon:
+    logo: material/book-open-page-variant
+    favicon: material/book-open-page-variant
   palette:
     primary: white
     accent: blue
@@ -8,9 +11,6 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.integrate
-  font:
-    text: Times New Roman
-    code: Roboto Mono
 
 markdown_extensions:
   - pymdownx.details
@@ -18,3 +18,6 @@ markdown_extensions:
   - admonition
 plugins:
   - search
+
+extra_css:
+  - stylesheets/extra.css
