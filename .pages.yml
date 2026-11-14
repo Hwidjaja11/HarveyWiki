@@ -1,6 +1,6 @@
 media:
   input: docs/images
-  output: /images
+  output: images
 content:
   - name: wiki_pages
     label: Wiki Pages
