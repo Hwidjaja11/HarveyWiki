@@ -1,7 +1,7 @@
 ---
 title: CodaCode Studios
 ---
-![CodaCode Studios Logo](/docs/images/CodaCodeOfficialLogo.png)
+![CodaCode Studios Logo](/images/CodaCodeOfficialLogo.png)
 
 CodaCode Game Development Studios is a Video Game company founded by Harvey Widjaja in early 2026.
 He then invited is friends to join, making it a classic indie dev team.
